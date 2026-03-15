@@ -89,7 +89,17 @@ directly. The sparse CSR output is memory-efficient at 50 000 features.
 
 > Exact values are written to `outputs/training.log` on each run.
 
----
+---## Model Comparison
+![Model Comparison](results/model_comparison.png)
+
+## ROC Curve
+![ROC Curve](results/roc_curve.png)
+
+## Confusion Matrix
+![Confusion Matrix](results/confusion_matrix.png)
+
+## Data Exploration
+![Data Exploration](results/data_exploration.png)
 
 ## Project Structure
 
